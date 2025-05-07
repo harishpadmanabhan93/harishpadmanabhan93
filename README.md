@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harishpadmanabhan93
 - 👀 I’m interested in k8s
-- 🌱 I’m currently learning k8s/openshift/aws
-- 💞️ I’m looking to collaborate on k8s
+- 💞️ I’m looking to collaborate on k8s,python
 - 📫 How to reach me harishpadmanabhan93@gmail.com
 
 <!---
